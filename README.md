@@ -1,4 +1,5 @@
 ### Hi there, I'm Cat Junior 👋
+<img src="https://komarev.com/ghpvc/?username=trungtin2901&color=blue">
 My name is Huynh Trung Tin and I'm studying Information System at Can Tho University.    
 ```java
 public class TinHuynhTrung{
