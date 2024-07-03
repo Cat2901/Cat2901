@@ -14,7 +14,7 @@ public class TinHuynhTrung{
     this.school =  "CTU";
     this.pronouns =  ["he/him"];
     this.hobbies = ["programming", "music", "game","gym"];
-    this.programming_languages = ["Python", "Javascript", "Java"]
+    this.programming_languages = ["Python", "Javascript", "Java", "C#", "Dart"]
   }
 }
 ```
